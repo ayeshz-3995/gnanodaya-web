@@ -1,8 +1,8 @@
-<section id="contact" >
+
     <?php
     $st->pageheading('asset/img/pageheading/contac.jpg','සම්බන්දවන්න');
     ?>
-
+    <section id="contact" >
     <div class="container">
         <div class="row">
             <div class="col-sm-4">
